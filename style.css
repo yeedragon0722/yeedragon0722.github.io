@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #89BFF5; 
+    color: black;
+}
+h1 {
+	color: black;
+}
+header {
+    background-color: #BB89F5;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 1.5em;
+	border: solid black;
+	border-radius: 10px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+main {
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #899FF5;
+    border-radius: 10px;
+    max-width: 900px;
+	border: solid black;
+}
+
+a {
+    color: #89BFF5; 
+    font-weight: bold;
+    text-decoration: underline;
+	
+}
+
+
+.classes-layout {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+    background: #899FF5;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #BB89F5;
+    color: black;
+}
+td {
+    background-color: rgba(197, 69, 236, 0.514);
+	font-weight: bold;
+}
+
+img {
+	width: 75%;
+	height: auto
+}
+
+.blog-layout a {
+    color: #461085;
+    font-weight: bold;
+    text-decoration: none;
+}
